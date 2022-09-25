@@ -18,7 +18,7 @@ Let's learn! 🖥️🤓
 <a href="https://www.linkedin.com/in/carlos-roberto-batista-junior-09b3b8126/" target="_blank">
 <img alt="Carlos Roberto Linkedin" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"width="50" height="50"/></a>     
 
-<br><br>
-## and some statistics to look cool 😎
+
+
               
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlosrbj)](https://github.com/carlosroberto1979/github-readme-stats)         [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosrbj&layout=compact)](https://github.com/carlosroberto1979/github-readme-stats)
